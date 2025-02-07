@@ -65,8 +65,6 @@
 # JSON, XML, YAML, and Configuration Files
 *.json linguist-language=JSON
 *.xml linguist-language=XML
-*.yaml linguist-language=YAML
-*.yml linguist-language=YAML
 *.toml linguist-language=TOML
 *.ini linguist-language=INI
 
